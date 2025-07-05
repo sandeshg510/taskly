@@ -1,5 +1,6 @@
 # task_manager
 Download apk : https://drive.google.com/file/d/1SVKdJlqQ6qMWpX6q1ZcJ_etHP_P_0rOi/view?usp=sharing
+Preview : Scroll down to see screenshots of the app.
 
 Taskly 
 A flutter app created with standard practices of Clean Architecture and Test Driven Development.
