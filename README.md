@@ -1,16 +1,9 @@
 # task_manager
 
-A new Flutter project.
+![Welcome Screen](https://github.com/user-attachments/assets/d9009c3d-d272-49dc-bdf2-1245b2f8a497)
 
-## Getting Started
+![Sign Up Screen](https://github.com/user-attachments/assets/6573719c-466a-48bd-903c-01954f89616d)
 
-This project is a starting point for a Flutter application.
+![Sign In Screen](https://github.com/user-attachments/assets/a8c32fa9-5adb-40b0-a188-687b09c0623c)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Tasks Screen](https://github.com/user-attachments/assets/d22621e0-d536-44c8-ac2e-3b4f35428464)
