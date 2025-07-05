@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "182159899483",
+    "project_id": "taskly-ceae1",
+    "storage_bucket": "taskly-ceae1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182159899483:android:e785031ca36d85b0ddb87e",
+        "android_client_info": {
+          "package_name": "com.example.task_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO9iRD1oRY6nZ-hltCzlVfVWJL-o-S7No"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
